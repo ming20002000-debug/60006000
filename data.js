@@ -51,7 +51,7 @@ const CANDIDATES = [
   { id: "f21", name: "Hearts2Hearts (하츠투하츠)", group: "5세대 · 2025.02 데뷔", song: "RUDE!", gender: "female", youtubeId: "F7sGJVUrkjQ", start: 0 },
   { id: "f22", name: "Hearts2Hearts (하츠투하츠)", group: "5세대 · 2025.02 데뷔", song: "STYLE", gender: "female", youtubeId: "n7kFRxFIPrI", start: 0 },
   { id: "f23", name: "KiiiKiii (키키)", group: "5세대 · 2025.03 데뷔", song: "404 (New Era)", gender: "female", youtubeId: "zhHB4dZTChw", start: 0 },
-  { id: "f24", name: "KiiiKiii (키키)", group: "5세대 · 2025.03 데뷔", song: "DANCING ALONE", gender: "female", youtubeId: "LBh9mouO4iI", start: 0 },
+  { id: "f24", name: "KiiiKiii (키키)", group: "5세대 · 2025.03 데뷔", song: "DANCING ALONE", gender: "female", youtubeId: "u5wMLWs6LSs", start: 0 },
   { id: "f25", name: "MEOVV (미야오)", group: "5세대 · 2024.09 데뷔", song: "HANDS UP", gender: "female", youtubeId: "sL0pCS6K9bc", start: 0 },
   { id: "f26", name: "MEOVV (미야오)", group: "5세대 · 2024.09 데뷔", song: "BURNING UP", gender: "female", youtubeId: "hlULtigNNao", start: 0 },
   { id: "f31", name: "리센느 (RESCENE)", group: "5세대 · 2024.03 데뷔", song: "LOVE ATTACK", gender: "female", youtubeId: "9XttLI0oH0I", start: 0 },
