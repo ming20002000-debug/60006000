@@ -125,11 +125,9 @@
   }
 
   function updatePoolInfo() {
-    const n = Number(roundSelect.value);
-    const half = n / 2;
     poolInfo.textContent =
-      `여돌 후보 ${state.poolFemaleTotal}명 · 남돌 후보 ${state.poolMaleTotal}명 중, ` +
-      `무작위로 여돌 ${half}명 + 남돌 ${half}명, 총 ${n}명이 대결합니다.`;
+      "여돌 16팀·남돌 16팀, 총 32팀의 대표곡 뮤비가 랜덤으로 등장해 대결합니다. " +
+      "각 그룹에서는 대표곡 2곡이 랜덤으로 선정되어 총 64곡이 출전합니다.";
   }
 
   roundSelect.addEventListener("change", updatePoolInfo);
