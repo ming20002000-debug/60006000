@@ -37,6 +37,7 @@ script.js    토너먼트 진행 로직 (건드릴 필요 없음)
 - 전부 **공식 뮤직비디오(official MV)** 기준으로 채웠습니다. 댄스 챌린지 숏츠나 퍼포먼스 영상이 아닙니다.
 - 모든 영상은 유튜브 oEmbed(`title`/`author_name`)로 실제 그룹·곡과 일치하는지 확인한 뒤 넣었습니다.
 - TREASURE는 "DARARI"(정식 MV 없음) 대신 "HELLO"로 교체해서 넣었습니다.
+- P1Harmony "SAD SONG"은 기존 링크가 쇼츠(Shorts)로 확인되어 정식 MV 링크로 교체했습니다.
 - 참고로 확인된 사항들:
   - BOYNEXTDOOR "오늘만 I LOVE YOU"의 영어 부제는 "If I Say, I Love You"입니다.
   - TWS "내가 S면 넌 나의 N이 되어줘"의 영어 부제는 "If I'm S, Can You Be My N?"입니다.

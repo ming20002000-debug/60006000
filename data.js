@@ -68,7 +68,7 @@ const CANDIDATES = [
   { id: "m07", name: "ENHYPEN", group: "4세대 · 2020.11 데뷔", song: "Bite Me", gender: "male", youtubeId: "wXFLzODIdUI", start: 0 },
   { id: "m08", name: "ENHYPEN", group: "4세대 · 2020.11 데뷔", song: "Drunk-Dazed", gender: "male", youtubeId: "Fc7-Oe0tj5k", start: 0 },
   { id: "m09", name: "P1Harmony (피원하모니)", group: "4세대 · 2020.10 데뷔", song: "때깔 (Killin' It)", gender: "male", youtubeId: "FlNxa-XD11U", start: 0 },
-  { id: "m10", name: "P1Harmony (피원하모니)", group: "4세대 · 2020.10 데뷔", song: "SAD SONG", gender: "male", youtubeId: "so7sEFjpEJI", start: 0 },
+  { id: "m10", name: "P1Harmony (피원하모니)", group: "4세대 · 2020.10 데뷔", song: "SAD SONG", gender: "male", youtubeId: "uHJDposrTMw", start: 0 }, // 기존 링크(so7sEFjpEJI)는 쇼츠였음 — 정식 MV로 교체
   { id: "m11", name: "TREASURE", group: "4세대 · 2020.08 데뷔", song: "HELLO", gender: "male", youtubeId: "aPd9exmH17o", start: 0 },
   { id: "m12", name: "TREASURE", group: "4세대 · 2020.08 데뷔", song: "JIKJIN (직진)", gender: "male", youtubeId: "ZJaKdBBzUYk", start: 0 },
   // -- 5세대 (10팀) --
