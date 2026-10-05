@@ -33,12 +33,11 @@ script.js    토너먼트 진행 로직 (건드릴 필요 없음)
 
 ## 현재 들어있는 데이터
 
-- 여돌 16팀(4세대 8팀 + 5세대 8팀) · 남돌 16팀(4세대 6팀 + 5세대 10팀), 팀당 대표곡 2곡 — 총 64곡
+- 여돌 16팀(4세대 9팀 + 5세대 7팀) · 남돌 16팀(4세대 6팀 + 5세대 10팀), 팀당 대표곡 2곡 — 총 64곡
 - 전부 **공식 뮤직비디오(official MV)** 기준으로 채웠습니다. 댄스 챌린지 숏츠나 퍼포먼스 영상이 아닙니다.
 - 모든 영상은 유튜브 oEmbed(`title`/`author_name`)로 실제 그룹·곡과 일치하는지 확인한 뒤 넣었습니다.
 - TREASURE는 "DARARI"(정식 MV 없음) 대신 "HELLO"로 교체해서 넣었습니다.
 - 참고로 확인된 사항들:
-  - tripleS "Rising"은 그룹 자체 채널에 별도 업로드가 없어 공식 배급 채널(1theK)에 있는 정식 MV를 사용했습니다.
   - BOYNEXTDOOR "오늘만 I LOVE YOU"의 영어 부제는 "If I Say, I Love You"입니다.
   - TWS "내가 S면 넌 나의 N이 되어줘"의 영어 부제는 "If I'm S, Can You Be My N?"입니다.
   - ALPHA DRIVE ONE·KickFlip·izna·MEOVV·tripleS·CORTIS는 모두 2023~2026년 사이에 데뷔한 신생 그룹으로, 소속사/데뷔일을 직접 검색해 확인했습니다 (예: izna는 MODHAUS가 아니라 WakeOne 소속).
