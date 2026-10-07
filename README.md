@@ -18,14 +18,14 @@ script.js    토너먼트 진행 로직 (건드릴 필요 없음)
 `data.js`를 열면 아래와 같은 형태의 배열이 있습니다.
 
 ```js
-{ id: "f01", name: "ITZY (있지)", group: "4세대 · 2019.02 데뷔", song: "WANNABE", gender: "female", youtubeId: "fE2h3lGlOsk", start: 0 },
+{ id: "f01", name: "ITZY (있지)", group: "2019년 데뷔", song: "WANNABE", gender: "female", youtubeId: "fE2h3lGlOsk", start: 0 },
 ```
 
 | 필드 | 설명 |
 |---|---|
 | `id` | 다른 항목과 겹치지 않는 고유 값 |
 | `name` | 화면에 표시될 이름 (그룹명) |
-| `group` | 세대 · 데뷔년월 (표시용) |
+| `group` | 데뷔년도 (표시용) |
 | `song` | 곡 제목 (표시용) |
 | `gender` | `"female"`(여돌) 또는 `"male"`(남돌) — 이 값으로 구분합니다 |
 | `youtubeId` | 유튜브 영상 주소의 `v=` 뒤에 오는 11자리 코드 |
